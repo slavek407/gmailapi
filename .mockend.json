@@ -2,6 +2,6 @@
   "Post": {
     "title": "string",
     "subject": "string",
-    "email": "string",
+    "email": "string"
   }
 }
