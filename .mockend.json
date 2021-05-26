@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Mail": {
     "title": "string",
     "description": "string",
     "email": "string"
